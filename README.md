@@ -1,4 +1,4 @@
-** System License **
+**System License**
 ```
 - Auto generate license
 - License's example for: python, fivem
